@@ -2,8 +2,7 @@
 
 STATUS: Concluido
 
-EQUIPE: Luis Carneiro (Programação e Design)
-
+EQUIPE: Luis Carneiro (Programação e  
         Victor Lopes (Arte)
 
 PLATAFORMA: PC
