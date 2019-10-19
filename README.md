@@ -1,12 +1,11 @@
 # FatecPicross
 
-STATUS:
+STATUS: Concluido
 
-EQUIPE:
+EQUIPE: Luis Carneiro (Programação e Design)
+        Victor Lopes (Arte)
 
-PLATAFORMA:
-
-Utilizando os números como guia preencha os quadrados corretamente para revelar os desenhos em pixel art.
+PLATAFORMA: PC
 
 Jogo do gênero puzzle desenvolvido em C utilizando a bibloteca SDL.
 
@@ -17,3 +16,5 @@ Jogo do gênero puzzle desenvolvido em C utilizando a bibloteca SDL.
 ![](Imagens/fatec_picross_3.png)
 
 ![](Imagens/fatec_picross_4.png)
+
+![](Imagens/fatec_picross_5.png)
