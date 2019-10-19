@@ -2,8 +2,8 @@
 
 STATUS: Concluido
 
-EQUIPE: Luis Carneiro (Programação e  
-        Victor Lopes (Arte)
+EQUIPE: *Luis Carneiro (Programação e  
+        *Victor Lopes (Arte)
 
 PLATAFORMA: PC
 
